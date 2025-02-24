@@ -77,6 +77,15 @@
 
 ---
 
+## 🎓 Extracurricular Activities
+- **Graduate Student Assistant, Library**: Demonstrated strong organizational and research skills as a Graduate Student Assistant in the library.
+- **Member, Stevens Graduate Society and Business Analytics Club**: Cultivated knowledge-sharing and networking within the Stevens Graduate Society and Business Analytics Club.
+- **National Cadet Corps Cadet**: Honored with the prestigious 'Best Cadet Award' by the Telangana State NCC Directorate in 2014 for outstanding leadership.
+- **Student Council and Sports Head**: Held the position of Sports Head in the Student Council, showcasing leadership, teamwork, and event management skills.
+- **Community Involvement and Health Promotion**: Volunteered for the Red Cross, organizing and participating in blood donation events and educational community awareness campaigns for COVID-19.
+
+---
+
 ## 📝 **Technical Blogs & Writing**  
 📝 **[5 Key Metrics Every Business Analyst Should Know](#)**  
 📝 **[Optimizing Data Pipelines for Business Analytics](#)**  
