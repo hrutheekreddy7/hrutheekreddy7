@@ -86,6 +86,32 @@
 
 ---
 
+# 📊 My Data Science & Analytics Projects
+
+The following are some of my key projects. Click on the links to explore the full details.
+
+## 🏏 IPL Player Performance & Social Network Analysis
+🔗 [View on GitHub](https://github.com/yourusername/IPL_Player_Performance_And_Social_Network_Analysis)
+
+![IPL Analysis](https://your-image-url.com/image1.png)
+
+- Used **Exploratory Data Analysis (EDA)** and **Social Network Analysis (Gephi)**.
+- Explored player performance, loyalty trends, and salary impact.
+- Visualized trends using **Python** & **Gephi**.
+
+---
+
+## 🏡 New York Housing Market Analysis
+🔗 [View on GitHub](https://github.com/yourusername/Newyork_housing_market_EDA)
+
+![NYC Housing](https://your-image-url.com/image2.png)
+
+- Performed **EDA, clustering, and statistical modeling**.
+- Analyzed real estate price trends and determinants.
+- Used **Python, Pandas, Matplotlib, and Seaborn**.
+
+---
+
 ## 📝 **Technical Blogs & Writing**  
 📝 **[5 Key Metrics Every Business Analyst Should Know](#)**  
 📝 **[Optimizing Data Pipelines for Business Analytics](#)**  
